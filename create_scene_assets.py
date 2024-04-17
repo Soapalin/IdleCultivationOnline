@@ -12,4 +12,4 @@ create.path = "./enemies"
 # create.createRandomCharacter("Draken", realm=4, level=7)
 
 for i in range(1,6):
-    create.createRandomCharacter(f"2_{i}", realm=4, level=i)
+    create.createRandomCharacter(f"5_{i}", realm=4, level=i)
